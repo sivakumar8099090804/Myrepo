@@ -42,7 +42,11 @@ public class Frequency {
         System.out.println("Frequency of " + ch + " = " + frequency);
     }
 }
+<<<<<<< Updated upstream
 Adding third code from remote 
+=======
+Adding a new code from git befor pulling the changes from Git hub
+>>>>>>> Stashed changes
 public class CurrDirectory {
 
     public static void main(String[] args) {
@@ -53,3 +57,7 @@ public class CurrDirectory {
 
     }
 }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
