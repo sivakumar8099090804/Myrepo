@@ -96,3 +96,11 @@ class Main {
     }
   }
 }
+System.out.println("Relative Path: " + path);
+
+
+    } catch (Exception e) {
+      e.getStackTrace();
+    }
+  }
+}
