@@ -42,3 +42,14 @@ public class Frequency {
         System.out.println("Frequency of " + ch + " = " + frequency);
     }
 }
+Adding third code from remote 
+public class CurrDirectory {
+
+    public static void main(String[] args) {
+
+        String path = System.getProperty("user.dir");
+        
+        System.out.println("Working Directory = " + path);
+
+    }
+}
